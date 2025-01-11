@@ -1,7 +1,7 @@
 {
   "name": "loginpassroute",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bienvenidos al puzzle de código. Como sabéis un puzzle se compone de piezas y esas piezas cuando encajan nos muestra algo. En este caso pasa lo mismo, al juntar todos los trozos del código obtendras la aplicación.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,7 @@
   "dependencies": {
     "body-parser": "1.20.2",
     "dotenv": "16.3.1",
-    "express": "4.18.2",
+    "express": "^4.18.2",
     "express-session": "1.17.3"
   }
 }
